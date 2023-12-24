@@ -1,0 +1,4 @@
+<add>
+         <edgeData id="E4" file="data_1.xml" period="60"/>
+         <edgeData id="+E12" file="data_2.xml" period="60"/>
+</add>
